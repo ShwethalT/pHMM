@@ -1,7 +1,9 @@
 # pHMM
+This is a Profile Hidden Markov Model used to identify Zinc Finger Motifs in peptide sequences of amino acids. It utilizes the viterbi algorithm to find the motif sequence.
 
 Code is implemented in R. The version of RStudio that I created it in on is R.4.4.0 but if HMM package is installed then I think it should run on either IDEs as well.
 I recommend RStudio just for convenience.
+
 To load the code please click on the R source file entitled CS223_Project_HMM in IDE of choice (RStudio recommended)
 Note: I have taken guidance from the in class exercise and the profile HMM scripts we used during lecture to make this script.
 
