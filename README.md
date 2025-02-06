@@ -9,7 +9,7 @@ Note: I have taken guidance from the in class exercise and the profile HMM scrip
 Run all commands till u reach observations
 User can input sequence of choice in observations
 Eg run:
-# Sequence 1
+### Sequence 1
 observations <- c("T","A", "C", "T", "G", "A","G")
 viterbi_result <- viterbi(hmm, observations)
 print(viterbi_result)
